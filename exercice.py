@@ -29,3 +29,4 @@ if __name__ == '__main__':
         mots[i] = majuscule(mots[i])
 
     print(mots)
+print('Voici les mots!')
